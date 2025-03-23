@@ -1,5 +1,4 @@
 ## Random mini-projects with python
-#
 
 ### Flower Animation
 
